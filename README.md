@@ -6,7 +6,7 @@ One common task for computers is to sort data. For example, people might want to
 ### Insertion Sort
 These challenges will cover Insertion Sort, a simple and intuitive sorting algorithm. We will first start with a nearly sorted list.
 
-Insert element into sorted list
+### Insert element into sorted list
 Given a sorted list with an unsorted number
 in the rightmost cell, can you write some simple code to insert
 
