@@ -31,7 +31,7 @@ Do the tests and print interim results:
 1 2 4 4 5
 1 2 3 4 5
 
-Function Description
+### Function Description
 
 Complete the insertionSort1 function in the editor below. It should print the interim and final arrays, each on a new line.
 
