@@ -78,6 +78,6 @@ In the th line , so is placed at position
 
 .
 
-Next Challenge
+### Next Challenge
 
 In the next Challenge, we will complete the insertion sort itself!
