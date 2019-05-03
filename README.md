@@ -68,7 +68,7 @@ Print the array as a row of space-separated integers each time there is a shift 
 2 4 4 6 8 
 2 3 4 6 8 
 
-Explanation
+### Explanation
 
 is removed from the end of the array.
 In the st line , so is shifted one cell to the right.
