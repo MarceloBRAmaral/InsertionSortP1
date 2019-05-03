@@ -52,7 +52,7 @@ The next line contains space-separated integers
 ### Constraints
 
 
-Output Format
+### Output Format
 
 Print the array as a row of space-separated integers each time there is a shift or insertion.
 
