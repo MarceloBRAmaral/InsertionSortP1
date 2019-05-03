@@ -61,7 +61,7 @@ Print the array as a row of space-separated integers each time there is a shift 
 5
 2 4 6 8 3
 
-Sample Output
+### Sample Output
 
 2 4 6 8 8 
 2 4 6 6 8 
