@@ -41,7 +41,7 @@ insertionSort1 has the following parameter(s):
 
     arr: an array of integers to sort
 
-Input Format
+### Input Format
 
 The first line contains the integer
 , the size of the array .
