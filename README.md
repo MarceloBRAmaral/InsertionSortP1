@@ -56,7 +56,7 @@ The next line contains space-separated integers
 
 Print the array as a row of space-separated integers each time there is a shift or insertion.
 
-Sample Input
+### Sample Input
 
 5
 2 4 6 8 3
