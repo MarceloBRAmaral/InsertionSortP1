@@ -34,9 +34,9 @@ Complete the insertionSort1 function in the editor below. It should print the in
 
 insertionSort1 has the following parameter(s):
 
-    n: an integer, the size of 
+- n: an integer, the size of 
 
-    arr: an array of integers to sort
+- arr: an array of integers to sort
 
 ### Input Format
 
