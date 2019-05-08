@@ -18,7 +18,7 @@ Assume you are given the array **arr = [1,2,4,5,3]** indexed **0...4**. Store th
 
 The results of operations on the example array is:
 
-Starting array:
+Starting array: **[1,2,4,5,3]**
 
 Store the value of
 
