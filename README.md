@@ -20,7 +20,7 @@ The results of operations on the example array is:
 
 Starting array: **[1,2,4,5,3]**
 
-Store the value of
+Store the value of **arr[4] = 3**
 
 Do the tests and print interim results:
 
