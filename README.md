@@ -24,9 +24,9 @@ Store the value of **arr[4] = 3**
 
 Do the tests and print interim results:
 
-1 2 4 5 5
-1 2 4 4 5
-1 2 3 4 5
+    1 2 4 5 5
+    1 2 4 4 5
+    1 2 3 4 5
 
 ### Function Description
 
