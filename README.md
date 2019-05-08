@@ -46,6 +46,7 @@ The next line contains **n** space-separated integers **arr[0]...arr[n-1]**.
 
 ### Constraints
 
+**1 <= n <= 1000**
 
 ### Output Format
 
