@@ -48,6 +48,8 @@ The next line contains **n** space-separated integers **arr[0]...arr[n-1]**.
 
 **1 <= n <= 1000**
 
+**-10000 <= arr[i] <=10000**
+
 ### Output Format
 
 Print the array as a row of space-separated integers each time there is a shift or insertion.
