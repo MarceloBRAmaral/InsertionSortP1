@@ -40,8 +40,7 @@ insertionSort1 has the following parameter(s):
 
 ### Input Format
 
-The first line contains the integer
-, the size of the array .
+The first line contains the integer **n**, the size of the array **arr**.
 The next line contains space-separated integers
 
 .
