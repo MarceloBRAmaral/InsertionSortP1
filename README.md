@@ -69,7 +69,7 @@ Print the array as a row of space-separated integers each time there is a shift 
 ### Explanation
 
 **3** is removed from the end of the array.
-In the st line , so is shifted one cell to the right.
+In the **1**st line , so is shifted one cell to the right.
 In the nd line , so is shifted one cell to the right.
 In the rd line , so is shifted one cell to the right.
 In the th line , so is placed at position
