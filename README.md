@@ -72,7 +72,7 @@ Print the array as a row of space-separated integers each time there is a shift 
 
 In the **1**st line **8 > 3**, so is shifted one cell to the right.
 
-In the **2**nd line , so is shifted one cell to the right.
+In the **2**nd line **6 > 3**, so is shifted one cell to the right.
 In the rd line , so is shifted one cell to the right.
 In the th line , so is placed at position
 
