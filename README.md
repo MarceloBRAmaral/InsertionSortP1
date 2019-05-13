@@ -76,9 +76,7 @@ In the **2nd** line **6 > 3**, so **6** is shifted one cell to the right.
 
 In the **3rd** line **4 > 3**, so **4** is shifted one cell to the right.
 
-In the th line , so is placed at position
-
-.
+In the **4th** line **2 < 3**, so **3** is placed at position **1**.
 
 ### Next Challenge
 
