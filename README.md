@@ -75,6 +75,7 @@ In the **1st** line **8 > 3**, so is shifted one cell to the right.
 In the **2nd** line **6 > 3**, so is shifted one cell to the right.
 
 In the **3rd** line , so is shifted one cell to the right.
+
 In the th line , so is placed at position
 
 .
